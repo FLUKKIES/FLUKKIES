@@ -16,7 +16,7 @@
 
 | 🔹 | 🔹 |
 |------|------|
-| **Name:** Athirat Kaewwichian (Flukky) | **Age:** 22 |
+| **Name:** Athirat Kaewwichian (Flukky) | **Age:** 23 |
 | **From:** Thailand 🇹🇭 | **Current Role:** Computer Science Student |
 | **Focus Areas:** Full-Stack Dev, Automation, Data Integration | **Hobbies:** Coffee ☕, Tech Gadgets 💻, UI/UX 🎨 |
 
